@@ -1,4 +1,8 @@
 # SimpleSessionBasedAuth
+
+### Introduction
+This is a simple ORM and session-based authentication system that can be used by frontend developers. It provides an easy way to perform CRUD operations on a database and secure user authentication using sessions.
+
 Here is an example README file for a simple session-based authentication system in Node.js with the following modules:
 
 - bcrypt: ^5.1.0
